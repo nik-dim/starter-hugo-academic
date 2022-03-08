@@ -1,7 +1,7 @@
 ---
 role: PhD student
 avatar_filename: avatar.jpg
-bio: My research interests include machine learning.
+bio: ""
 interests:
   - Deep Learning
   - Multitask Learning
