@@ -40,5 +40,5 @@ content:
   email: test@example.org
 widget_id: contact
 design:
-  columns: "1"
+  columns: "2"
 ---
