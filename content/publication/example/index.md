@@ -17,7 +17,7 @@ abstract: |-
   tion associated with its “hard” counterparts and moderately improves
   performance.
 draft: false
-slides: Dimitriadis_Maragos_icassp2021.pdf
+slides: assets/media/dimitriadis_maragos_icassp2021.pdf
 url_pdf: ""
 publication_types:
   - "1"
