@@ -18,7 +18,7 @@ abstract: |-
   performance.
 draft: false
 slides: assets/media/dimitriadis_maragos_icassp2021.pdf
-url_pdf: ""
+url_pdf: "dimitriadis_maragos_icassp2021.pdf"
 publication_types:
   - "1"
 authors:
@@ -34,7 +34,7 @@ author_notes: []
 publication: In International Conference on Acoustics, Speech, and Signal Processing
 featured: false
 date: 2022-03-08T21:27:23.920Z
-url_slides: ""
+url_slides: "icassp2021-presentation-Dimitriadis-Maragos.pdf"
 title: "Advances in morphological neural networks: training, pruning and
   enforcing shape constraints"
 tags:
