@@ -1,6 +1,6 @@
 ---
 abstract: |-
-  n this paper, we study an emerging class of neural networks, the
+  In this paper, we study an emerging class of neural networks, the
   Morphological Neural networks, from some modern perspectives.
   Our approach utilizes ideas from tropical geometry and mathemati-
   cal morphology. First, we state the training of a binary morpholog-
@@ -16,31 +16,30 @@ abstract: |-
   Maslov Dequantization, which alleviates issues of gradient propaga-
   tion associated with its “hard” counterparts and moderately improves
   performance.
-slides: example
+draft: false
+slides: Dimitriadis_Maragos_icassp2021.pdf
 url_pdf: ""
 publication_types:
   - "1"
 authors:
   - admin
   - Petros Maragos
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
-author_notes: []
 publication_short: ICASSP
 url_source: ""
 url_video: ""
+author_notes: []
 publication: In International Conference on Acoustics, Speech, and Signal Processing
 featured: false
-date: 2013-07-01T00:00:00Z
+date: 2022-03-08T21:27:23.920Z
 url_slides: ""
 title: "Advances in morphological neural networks: training, pruning and
   enforcing shape constraints"
 tags:
   - Tropical Geometry
-  - Morphological Neural Net- works
+  - Morphological Neural Networks
   - Monotonicity
   - Pruning
   - Maslov Dequantization
@@ -50,7 +49,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
