@@ -12,6 +12,7 @@ content:
     netlify:
       captcha: false
   autolink: true
+  email: dimitriadis.nikolaos0@gmail.com
 widget_id: contact
 design:
   columns: "2"
