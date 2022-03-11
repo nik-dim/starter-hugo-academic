@@ -29,7 +29,7 @@ experience:
     location: Lausanne, Switzerland
     date_start: '2020-10-15'
     date_end: ''
-    description: Working in MultiTask and Continual Learning
+    description: Working in MultiTask and Continual Learning.
         
   - title: MEng in Electrical and Computer Engineering
     company: National Technical University of Athens
