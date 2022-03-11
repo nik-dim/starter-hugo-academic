@@ -31,5 +31,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_slides: "slides.pdf"
 date: 2022-03-11T20:43:10.986Z
 ---
