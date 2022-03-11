@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: PhD in Computer Science
+    company: École Polytechnique Fédérale de Lausanne
+    company_url: 'https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/'
+    company_logo: epfl
+    location: Lausanne, Switzerland
+    date_start: '2020-10-15'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Working in MultiTask and Continual Learning
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: MEng in Electrical and Computer Engineering
+    company: National Technical University of Athens
+    company_url: 'https://www.ece.ntua.gr/en'
+    company_logo: ntua
+    location: Athens, Greece
+    date_start: '2014-10-01'
+    date_end: '2020-10-01'
+    description: Worked in the intesection of machine learning and tropical geometry.
 
 design:
   columns: '2'
